@@ -273,7 +273,7 @@ Focus:
 * Coverage
 * Workforce Reach
 * 
-![Training Overview](dashboard/01_training_overview.png)
+![Training Overview](dashboard/01-training-overview.png)
 
 ---
 
