@@ -272,8 +272,8 @@ Focus:
 * Participation
 * Coverage
 * Workforce Reach
-
-📷 Dashboard Screenshot
+* 
+![Training Overview](dashboard/01_training_overview.png)
 
 ---
 
