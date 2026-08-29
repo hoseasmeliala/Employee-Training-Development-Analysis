@@ -272,8 +272,8 @@ Focus:
 * Participation
 * Coverage
 * Workforce Reach
-* 
-![Training Overview](dashboard/01-training-overview.png)
+  
+![Training Overview](dashboards/01-training-overview.png)
 
 ---
 
@@ -285,7 +285,8 @@ Focus:
 * Learning Improvement
 * Completion Rate
 
-📷 Dashboard Screenshot
+![Training Effectiveness](dashboards/02-training-effectiveness.png)
+
 
 ---
 
@@ -297,7 +298,7 @@ Focus:
 * Development Distribution
 * Low Exposure Identification
 
-📷 Dashboard Screenshot
+![Employee Development](dashboards/03-employee-development.png)
 
 ---
 
@@ -309,7 +310,8 @@ Focus:
 * Cost Distribution
 * Spending Trends
 
-📷 Dashboard Screenshot
+![Training Investment](dashboards/04-training-investment.png)
+
 
 ---
 
@@ -320,18 +322,20 @@ Focus:
 * High-Level KPIs
 * Strategic Insights
 
-📷 Dashboard Screenshot
+![Executive Summary](dashboards/05-executive-summary.png)
+
 
 ---
 
-## 6. Training Insights
+## 6. Training Insight
 
 Focus:
 
 * Diagnostic Analysis
 * Drill-Down Investigation
 
-📷 Dashboard Screenshot
+![Training Overview](dashboards/06-training-insight.png)
+
 
 ---
 
@@ -473,12 +477,12 @@ Employee-Training-Development-Analytics/
 │   ├── Employee_Training_Development_Analytics.pbix
 │
 ├── dashboard_screenshots/
-│   ├── 01_training_overview.png
-│   ├── 02_training_effectiveness.png
-│   ├── 03_employee_development.png
-│   ├── 04_training_investment.png
-│   ├── 05_executive_summary.png
-│   └── 06_training_insights.png
+│   ├── 01-training-overview.png
+│   ├── 02-training-effectiveness.png
+│   ├── 03-employee-development.png
+│   ├── 04-training-investment.png
+│   ├── 05-executive-summary.png
+│   └── 06-training-insight.png
 │
 ├── data_model/
 │   └── star_schema_model.png
