@@ -226,7 +226,7 @@ Benefits:
 * Reusable DAX calculations
 * Scalable model design
 
-📷 Insert Data Model Screenshot Here
+![Star Schema](data-model/star-schema.png)
 
 ---
 
@@ -470,11 +470,13 @@ Employee-Training-Development-Analytics/
 │
 ├── README.md
 │
-├── datasets/
-│   ├── Employee_Training_Analytics_Dataset.xlsx
-│
-├── powerbi/
-│   ├── Employee_Training_Development_Analytics.pbix
+├── data/
+│   ├── DimEmployee.xlsx
+│   ├── DimTraining.xlsx
+│   └── FactTraining.xlsx
+│ 
+├── power-bi/
+│   └── Employee_Training_Development_Analytics.pbix
 │
 ├── dashboard_screenshots/
 │   ├── 01-training-overview.png
@@ -484,17 +486,17 @@ Employee-Training-Development-Analytics/
 │   ├── 05-executive-summary.png
 │   └── 06-training-insight.png
 │
-├── data_model/
-│   └── star_schema_model.png
+├── data-model/
+│   └── star_schema.png
 │
-├── power_query/
+├── power-query/
 │   └── power_query_steps.png
 │
 ├── dax/
 │   └── dax_measures_examples.png
 │
 └── documentation/
-    └── HR_Analytics_Case_Study.pdf
+    └── case study.pdf
 ```
 
 ---
