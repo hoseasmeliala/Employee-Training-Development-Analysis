@@ -201,8 +201,7 @@ Key activities:
 * Relationship preparation
 * Date dimension creation
 
-📷 Insert Power Query Screenshot Here
-
+![Power Query](power-query/01_power_query_step.png)
 ---
 
 # 🏗 Data Modeling
@@ -490,10 +489,14 @@ Employee-Training-Development-Analytics/
 │   └── star_schema.png
 │
 ├── power-query/
-│   └── power_query_steps.png
+│   └── 01_power_query_step.png
 │
 ├── dax/
-│   └── dax_measures_examples.png
+│   ├── README.md
+│   ├── 01_dimdate_dax.png
+│   ├── 02_dax_measure_list.png
+│   ├── 03_kpi_daxmeasure.png
+│   └── 04_display_daxmeasure.png
 │
 └── documentation/
     └── case study.pdf
