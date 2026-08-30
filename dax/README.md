@@ -11,7 +11,7 @@ The DAX implementation consists of:
 ---
 # 1. DAX Calculated Table - DimDate
 
-## DimDate Data Modelling
+## DimDate Column
 | Column          | Purpose                              |
 | --------------- | ------------------------------------ |
 | Date            | Base calendar date                   |
@@ -142,7 +142,7 @@ SUM(FactTraining[TrainingCost])
 Cost per Participant =
 DIVIDE(
     [Total Training Cost],
-    DISTINCTCOUNT(FactTraining[EmployeeID]),
+    [Training Participants],
     0
 )
 ```
