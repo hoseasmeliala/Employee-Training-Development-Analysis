@@ -259,7 +259,7 @@ Benefits:
 * Total Training Cost
 * Cost per Participant
 
-📷 Insert DAX Measures Screenshot Here
+![KPI DAX Measures](dax/03_kpi_daxmeasure.png)
 
 ---
 
