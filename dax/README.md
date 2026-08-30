@@ -39,6 +39,8 @@ ADDCOLUMNS(
 )
 ```
 
+![DimDate DAX](01_dimdate_dax.png)
+---
 
 
 # 2. DAX Measures - Business KPI 
@@ -146,7 +148,7 @@ DIVIDE(
     0
 )
 ```
-
+![KPI DAX Measures](03_kpi_daxmeasure.png)
 ---
 
 # 3. DAX Measures - Label Display
@@ -173,6 +175,7 @@ IF(
     FORMAT(Improvement, "0.000")
 )
 ```
+![Display DAX Measures](04_display_daxmeasure.png)
 
 ---
 
@@ -212,5 +215,11 @@ SWITCH(
 )
 ```
 
+---
+## Complete DAX Measure List - KPI & Label Display
+
+The complete list of measures implemented in the model is documented below.
+
+![DAX Measure List](02_dax_measure_list.png)
 
 ---
