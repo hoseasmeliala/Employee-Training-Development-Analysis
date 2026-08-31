@@ -1,6 +1,6 @@
 # 📊 Employee Training & Development Analytics
 
-### PT PLN Unit Induk Wilayah Nusa Tenggara Timur (UIW NTT)
+### PT PLN Unit Induk Wilayah Nusa Tenggara Timur (PT PLN UIW NTT)
 
 **HR Analytics | Microsoft Power BI | Power Query | Star Schema | DAX | Data Visualization | Business Intelligence**
 
@@ -499,7 +499,7 @@ Employee-Training-Development-Analytics/
 │   └── 04_display_daxmeasure.png
 │
 └── documentation/
-    └── Employee Training & Development Analytics Case Study.pdf
+    └── case_study_report.pdf
 ```
 
 ---
