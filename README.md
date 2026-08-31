@@ -499,7 +499,7 @@ Employee-Training-Development-Analytics/
 │   └── 04_display_daxmeasure.png
 │
 └── documentation/
-    └── case_study_report.pdf
+    └── Employee_Training_Development_Analytics_Case_Study_Report.pdf
 ```
 
 ---
